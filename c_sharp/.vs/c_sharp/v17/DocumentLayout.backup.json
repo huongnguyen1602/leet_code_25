@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\leet_code_2025\\c_sharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7816599F-BAA2-4285-BD1D-8DCD8F6E3C7A}|c_sharp\\c_sharp.csproj|f:\\leet_code_2025\\c_sharp\\c_sharp\\leetcode\\0001_0100\\ex0013.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7816599F-BAA2-4285-BD1D-8DCD8F6E3C7A}|c_sharp\\c_sharp.csproj|solutionrelative:c_sharp\\leetcode\\0001_0100\\ex0013.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7816599F-BAA2-4285-BD1D-8DCD8F6E3C7A}|c_sharp\\c_sharp.csproj|f:\\leet_code_2025\\c_sharp\\c_sharp\\leetcode\\0001_0100\\ex0002.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7816599F-BAA2-4285-BD1D-8DCD8F6E3C7A}|c_sharp\\c_sharp.csproj|solutionrelative:c_sharp\\leetcode\\0001_0100\\ex0002.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7816599F-BAA2-4285-BD1D-8DCD8F6E3C7A}|c_sharp\\c_sharp.csproj|f:\\leet_code_2025\\c_sharp\\c_sharp\\leetcode\\0001_0100\\ex0001.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7816599F-BAA2-4285-BD1D-8DCD8F6E3C7A}|c_sharp\\c_sharp.csproj|solutionrelative:c_sharp\\leetcode\\0001_0100\\ex0001.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7816599F-BAA2-4285-BD1D-8DCD8F6E3C7A}|c_sharp\\c_sharp.csproj|f:\\leet_code_2025\\c_sharp\\c_sharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7816599F-BAA2-4285-BD1D-8DCD8F6E3C7A}|c_sharp\\c_sharp.csproj|solutionrelative:c_sharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex0013.cs",
+              "DocumentMoniker": "F:\\leet_code_2025\\c_sharp\\c_sharp\\LeetCode\\0001_0100\\ex0013.cs",
+              "RelativeDocumentMoniker": "c_sharp\\LeetCode\\0001_0100\\ex0013.cs",
+              "ToolTip": "F:\\leet_code_2025\\c_sharp\\c_sharp\\LeetCode\\0001_0100\\ex0013.cs",
+              "RelativeToolTip": "c_sharp\\LeetCode\\0001_0100\\ex0013.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T05:35:44.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ex0002.cs",
+              "DocumentMoniker": "F:\\leet_code_2025\\c_sharp\\c_sharp\\LeetCode\\0001_0100\\ex0002.cs",
+              "RelativeDocumentMoniker": "c_sharp\\LeetCode\\0001_0100\\ex0002.cs",
+              "ToolTip": "F:\\leet_code_2025\\c_sharp\\c_sharp\\LeetCode\\0001_0100\\ex0002.cs",
+              "RelativeToolTip": "c_sharp\\LeetCode\\0001_0100\\ex0002.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T05:31:55.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ex0001.cs",
+              "DocumentMoniker": "F:\\leet_code_2025\\c_sharp\\c_sharp\\LeetCode\\0001_0100\\ex0001.cs",
+              "RelativeDocumentMoniker": "c_sharp\\LeetCode\\0001_0100\\ex0001.cs",
+              "ToolTip": "F:\\leet_code_2025\\c_sharp\\c_sharp\\LeetCode\\0001_0100\\ex0001.cs",
+              "RelativeToolTip": "c_sharp\\LeetCode\\0001_0100\\ex0001.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T05:23:29.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\leet_code_2025\\c_sharp\\c_sharp\\Program.cs",
+              "RelativeDocumentMoniker": "c_sharp\\Program.cs",
+              "ToolTip": "F:\\leet_code_2025\\c_sharp\\c_sharp\\Program.cs",
+              "RelativeToolTip": "c_sharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T05:21:41.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 184,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 282,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

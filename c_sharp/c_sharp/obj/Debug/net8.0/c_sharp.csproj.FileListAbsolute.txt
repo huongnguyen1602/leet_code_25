@@ -1,0 +1,15 @@
+F:\leet_code_2025\c_sharp\c_sharp\bin\Debug\net8.0\c_sharp.exe
+F:\leet_code_2025\c_sharp\c_sharp\bin\Debug\net8.0\c_sharp.deps.json
+F:\leet_code_2025\c_sharp\c_sharp\bin\Debug\net8.0\c_sharp.runtimeconfig.json
+F:\leet_code_2025\c_sharp\c_sharp\bin\Debug\net8.0\c_sharp.dll
+F:\leet_code_2025\c_sharp\c_sharp\bin\Debug\net8.0\c_sharp.pdb
+F:\leet_code_2025\c_sharp\c_sharp\obj\Debug\net8.0\c_sharp.GeneratedMSBuildEditorConfig.editorconfig
+F:\leet_code_2025\c_sharp\c_sharp\obj\Debug\net8.0\c_sharp.AssemblyInfoInputs.cache
+F:\leet_code_2025\c_sharp\c_sharp\obj\Debug\net8.0\c_sharp.AssemblyInfo.cs
+F:\leet_code_2025\c_sharp\c_sharp\obj\Debug\net8.0\c_sharp.csproj.CoreCompileInputs.cache
+F:\leet_code_2025\c_sharp\c_sharp\obj\Debug\net8.0\c_sharp.sourcelink.json
+F:\leet_code_2025\c_sharp\c_sharp\obj\Debug\net8.0\c_sharp.dll
+F:\leet_code_2025\c_sharp\c_sharp\obj\Debug\net8.0\refint\c_sharp.dll
+F:\leet_code_2025\c_sharp\c_sharp\obj\Debug\net8.0\c_sharp.pdb
+F:\leet_code_2025\c_sharp\c_sharp\obj\Debug\net8.0\c_sharp.genruntimeconfig.cache
+F:\leet_code_2025\c_sharp\c_sharp\obj\Debug\net8.0\ref\c_sharp.dll
